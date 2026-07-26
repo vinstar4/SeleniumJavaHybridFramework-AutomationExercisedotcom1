@@ -1,0 +1,51 @@
+# Maven
+target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+logs/
+
+# Test Reports
+test-output/
+surefire-reports/
+failsafe-reports/
+
+# Extent Reports
+ExtentReports/
+extent-report/
+extent-reports/
+
+# Screenshots
+screenshots/
+Screenshots/
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+
+# Archive files
+*.zip
+*.tar
+*.gz
+
+# Generated files
+dependency-reduced-pom.xml
