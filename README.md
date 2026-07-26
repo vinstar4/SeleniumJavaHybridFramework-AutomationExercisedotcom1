@@ -19,9 +19,7 @@ For the framework architecture, project structure, and design philosophy, please
 * TestNG
 * Maven
 * Page Object Model (POM)
-* Apache POI
-* Extent Reports
-* Git & GitHub
+
 
 ---
 
@@ -29,7 +27,6 @@ For the framework architecture, project structure, and design philosophy, please
 
 * Page Object Model (POM)
 * Reusable BasePage methods
-* Explicit Waits
 * Extent Reporting
 * TestNG Execution
 * Maven Build Support
